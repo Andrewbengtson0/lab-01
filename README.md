@@ -2,11 +2,11 @@
 
 ---
 
-- Your Name: Your Name
-- GitHub Username: Your GitHub Username
-- Repository URL: https://
-- Date Submitted: YYYY-MM-DD
-- Collaborators: List any collaborators here (if none, write "None")
-- Comments: Any comments you have for the instructor about the assignment.
+- Your Name: Andrew Bengtson
+- GitHub Username: Andrewbengtson0
+- Repository URL: https://https://github.com/Andrewbengtson0/lab-01
+- Date Submitted: 2025/09/27
+- Collaborators: none
+- Comments: 
 
 ---
